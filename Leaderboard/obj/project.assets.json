@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Domča\\source\\repos\\2. ročník\\Leaderboard\\Leaderboard\\Leaderboard.csproj",
+      "projectUniqueName": "C:\\Users\\Domča\\source\\repos\\2. ročník\\LeaderBoard\\Leaderboard\\Leaderboard.csproj",
       "projectName": "Leaderboard",
-      "projectPath": "C:\\Users\\Domča\\source\\repos\\2. ročník\\Leaderboard\\Leaderboard\\Leaderboard.csproj",
+      "projectPath": "C:\\Users\\Domča\\source\\repos\\2. ročník\\LeaderBoard\\Leaderboard\\Leaderboard.csproj",
       "packagesPath": "C:\\Users\\Domča\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Domča\\source\\repos\\2. ročník\\Leaderboard\\Leaderboard\\obj\\",
+      "outputPath": "C:\\Users\\Domča\\source\\repos\\2. ročník\\LeaderBoard\\Leaderboard\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

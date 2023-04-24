@@ -29,13 +29,11 @@ namespace Leaderboard
             new Squares(this);
         }
         void GenerateLives()
-        {
+        {   
             for (int i = 0; i < lives; i++)
             {
                 PictureBox p = new PictureBox();
                 p.Load("./images/favicon-16x16.png");
-                //TODO moves lives to not being spawned on themselfs
-                this.panel_livesFav.Controls.Add(p);
             }
         }
     }
